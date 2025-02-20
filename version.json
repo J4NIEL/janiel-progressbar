@@ -1,24 +1,4 @@
 {
-    "tag_name": "1.0.0",
-    "name": "Janiel Progress Bar",
-    "description": "Modern and Customizable Progress Bar for QB-Core",
-    "changelog": {
-        "added": [
-            "Draggable progress bar",
-            "Position saving per player",
-            "Modern UI design",
-            "Custom color support",
-            "SQL integration"
-        ],
-        "fixed": [],
-        "removed": []
-    },
-    "download_url": "https://keymaster.fivem.net/login?return_url=/",
-    "author": "Janiel",
-    "required_dependencies": {
-        "qb-core": "latest",
-        "oxmysql": "^3.0.0"
-    },
-    "minimum_fivem_version": "5848",
-    "release_date": "2024-03-20"
-} 
+    "version": "1.0.0",
+    "download": "https://keymaster.fivem.net/login?return_url=/"
+}
