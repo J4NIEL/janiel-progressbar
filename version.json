@@ -1,4 +1,13 @@
 {
-    "version": "1.0.0",
-    "download": "https://keymaster.fivem.net/login?return_url=/"
-} 
+    "version": "1.0.1",
+    "download": "https://keymaster.fivem.net/",
+    "changelog": {
+        "1.0.1": [
+        "✨ Added ESX Framework support",
+        "🔄 Added automatic framework detection system (auto, esx, qb options)",
+        "🛠️ Optimized test command for both frameworks",
+        "⚡ Improved framework dependencies",
+        "📝 Added framework selection setting to config file"
+        ]
+    }
+}
